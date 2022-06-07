@@ -1,5 +1,3 @@
-# Examen-
-examen de supletorio
 #include <iostream>
  
 using namespace std;
